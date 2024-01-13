@@ -11,6 +11,7 @@ Pizza Restaurant Sales Analysis Using SQL + Power BI Dashboard
 #### 🍕 Top 10 Pizza By Sales 🔥
 #### 🍕Top 10 Pizza By Sold Quantity 🔥
 <hr>
+
 # Power BI Dashboard
 
 ### Home Page
